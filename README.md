@@ -1,4 +1,4 @@
-![MasterHead](file:///C:/Users/Windows%2010/Desktop/gitbanner1.jpg)
+![MasterHead](gitbanner1.jpg)
 
 ![](https://komarev.com/ghpvc/?username=akara44&color=blue)
 <div align="center">
