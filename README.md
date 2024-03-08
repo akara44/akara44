@@ -10,9 +10,15 @@
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/GitHub Mascot Tekno.gif" alt="Coding" width=200 height=200 align="right">
 <h3 align="left">&nbsp; A passionate fullstack Web developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **PHP**
-- 📫 How to reach me **ahmetkara2044@gmail.com**
+- 🔭 I’m currently working on [login-system](https://github.com/akara44/login-system.git)
 
+- 🌱 I’m currently learning **PHP-Laravel**
+
+- 👨‍💻 All of my projects are available at [https://github.com/akara44](https://github.com/akara44)
+
+- 💬 Ask me about **WEB DESİNG**
+
+- 📫 How to reach me **ahmetkara2044@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
