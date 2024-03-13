@@ -109,6 +109,7 @@
 <br />
 
 ![](https://github-profile-trophy.vercel.app/?username=akara44&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=akara44&theme=onedark" alt="akara44" />
 
 
 <br />
