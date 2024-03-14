@@ -1,4 +1,4 @@
-![MasterHead](gitbanner1.jpg)
+<img src="giphy.gif"  width="100%" height="500" >
 
 ![](https://komarev.com/ghpvc/?username=akara44&color=blue)
 <div align="center">
