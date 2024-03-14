@@ -1,4 +1,4 @@
-<img src="giphy.gif"  width="100%" height="400" >
+<img src="giphy.gif"  width="100%" height="370" >
 
 ![](https://komarev.com/ghpvc/?username=akara44&color=blue)
 <div align="center">
