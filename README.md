@@ -52,7 +52,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub](https://img.shields.io/badge/composer-%23121011.svg?style=for-the-badge&logo=composer&logoColor=black)
+![GitHub](https://img.shields.io/badge/composer-%23121011.svg?style=for-the-badge&logo=composer&logoColor=white)
 
 
 <picture>
