@@ -46,7 +46,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Composer](https://img.shields.io/badge/composer-%23121011.svg?style=for-the-badge&logo=composer&logoColor=white)
+![Composer](https://img.shields.io/badge/composer-%23323330.svg?style=for-the-badge&logo=composer&logoColor=%23F7DF1E)
 ![Npm](https://img.shields.io/badge/npm-%23FF2D20.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
