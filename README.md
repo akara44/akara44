@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [kurumsal](https://github.com/akara44/kurumsal)
 
-- 🌱 I’m currently learning **PHP-Laravel**
+- 🌱 I’m currently learning **C#-.Net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akara44](https://github.com/akara44)
 
