@@ -48,7 +48,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Composer](https://img.shields.io/badge/composer-%23323330.svg?style=for-the-badge&logo=composer&logoColor=%23F7DF1E)
 ![Npm](https://img.shields.io/badge/npm-%23FF2D20.svg?style=for-the-badge&logo=npm&logoColor=white)
-
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+![ngrok](https://img.shields.io/badge/ngrok-1373E6?style=for-the-badge&logo=ngrok&logoColor=white)
 
 
 <picture>
