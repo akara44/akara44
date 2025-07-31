@@ -52,6 +52,7 @@
 ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 ![ngrok](https://img.shields.io/badge/ngrok-1373E6?style=for-the-badge&logo=ngrok&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 <picture>
