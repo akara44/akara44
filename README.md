@@ -14,7 +14,7 @@
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/GitHub Mascot Tekno.gif" alt="Coding" width=200 height=200 align="right">
 <h3 align="left">&nbsp; A passionate fullstack Web developer from Türkiye</h3>
 
-- 🔭 I’m currently working on [kurumsal](https://github.com/akara44/kurumsal)
+- 🔭 I’m currently working on [ECommerce](https://github.com/akara44/ECommerce)
 
 - 🌱 I’m currently learning **C#-.Net**
 
