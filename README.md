@@ -66,7 +66,7 @@
 
 
 # Github Stats
-
+<!--
  <br />
  
   <p align="center">
@@ -76,7 +76,7 @@
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
-
+-->
   
 <br />
 
@@ -95,7 +95,7 @@
  <br />
  
   
-  
+  <!--
   <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
@@ -103,7 +103,7 @@
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
   </a>
 </p>
- 
+ -->
   
   
  <!--
