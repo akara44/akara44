@@ -1,6 +1,6 @@
-<img src="giphy.gif"   width="100%" height="100%" />
+ <img src="giphy.gif"   width="100%" height="100%" />
 
-
+ 
 
 ![](https://komarev.com/ghpvc/?username=akara44&color=blue)
  
